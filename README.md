@@ -1,0 +1,2 @@
+# hugo
+Trying out Hugo
